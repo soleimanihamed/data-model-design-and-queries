@@ -1,1 +1,0 @@
-# data-model-design-and-queries
